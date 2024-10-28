@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://tuchuang.voooe.cn/images/2024/10/28/bj.jpg);
+    --darkmode-bg:url(https://tuchuang.voooe.cn/images/2024/10/28/bj.jpg);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2024/10/28/bj.jpg);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2024/10/28/bj.jpg);
   }`;
 }
 // 切换背景主函数
@@ -3190,10 +3190,10 @@ function changeBg(s) {
 // 设置背景属性
 function setBg(s) {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: ${s};
-    --darkmode-bg: ${s};
-    --mobileday-bg: ${s};
-    --mobilenight-bg: ${s};
+    --default-bg: {$} ;
+    --darkmode-bg: {$} ;
+    --mobileday-bg: {$} ;
+    --mobilenight-bg: {$} ;
   }`;
 }
 
@@ -3464,7 +3464,7 @@ function createWinbox() {
 <h3>8. 自定义背景</h3>
 <details class="folding-tag" cyan><summary> 设置自定义背景 </summary>
               <div class='content'>
-              <p><center><input type="text" id="pic-link" size="70%" maxlength="1000" placeholder="请输入有效的图片链接，如 https://source.fomal.cc/img/home_bg.webp"></center></p><p><center><button type="button" onclick="getPicture()" style="background:var(--theme-color);width:35%;padding: 5px 0px 7px 0px;border-radius:30px;color:white;line-height:2;">🌈切换背景🌈</button></center></p>
+              <p><center><input type="text" id="pic-link" size="70%" maxlength="1000" placeholder="请输入有效的图片链接，如 https://tuchuang.voooe.cn/images/2024/10/28/bj.jpg"></center></p><p><center><button type="button" onclick="getPicture()" style="background:var(--theme-color);width:35%;padding: 5px 0px 7px 0px;border-radius:30px;color:white;line-height:2;">🌈切换背景🌈</button></center></p>
               </div>
             </details>
 
