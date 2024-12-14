@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.moyunlee.cn/life/games/index.html</loc>
+    <loc>http://www.moyunlee.cn/life/games/aqcs/sywd.html</loc>
     
     <lastmod>2024-12-14</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/games/aqcs/index.html</loc>
+    <loc>http://www.moyunlee.cn/life/games/index.html</loc>
     
     <lastmod>2024-12-14</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/box/gallery/index.html</loc>
+    <loc>http://www.moyunlee.cn/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/box/animation/index.html</loc>
+    <loc>http://www.moyunlee.cn/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -234,21 +234,14 @@
   </url>
   
   <url>
+    <loc>http://www.moyunlee.cn/tags/CSS/</loc>
+    <lastmod>2024-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.moyunlee.cn/tags/HTML/</loc>
-    <lastmod>2024-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.moyunlee.cn/tags/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.moyunlee.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/</loc>
     <lastmod>2024-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,7 +262,14 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/tags/CSS/</loc>
+    <loc>http://www.moyunlee.cn/tags/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.moyunlee.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/</loc>
     <lastmod>2024-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -299,13 +299,6 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/categories/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.moyunlee.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,14 +306,21 @@
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/categories/%E6%AF%8F%E5%91%A8%E5%A4%A7%E5%AD%A6%E4%B9%A0/HTML/</loc>
+    <loc>http://www.moyunlee.cn/categories/%E6%AF%8F%E5%91%A8%E5%A4%A7%E5%AD%A6%E4%B9%A0/CSS/</loc>
     <lastmod>2024-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.moyunlee.cn/categories/%E6%AF%8F%E5%91%A8%E5%A4%A7%E5%AD%A6%E4%B9%A0/CSS/</loc>
+    <loc>http://www.moyunlee.cn/categories/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.moyunlee.cn/categories/%E6%AF%8F%E5%91%A8%E5%A4%A7%E5%AD%A6%E4%B9%A0/HTML/</loc>
     <lastmod>2024-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
